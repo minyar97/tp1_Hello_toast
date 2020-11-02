@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fb7868af-922d-4ca8-b268-3c68d3626129" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="ProjectId" id="1jjY9k2pXSvY3CohvI9B6IfgMDc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../Program Files/Git/bin/git.exe" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fb7868af-922d-4ca8-b268-3c68d3626129" name="Default Changelist" comment="" />
+      <created>1604318818852</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604318818852</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="660" y="368" key="Github.CreateGistDialog" timestamp="1604320304985">
+      <screen x="0" y="0" width="1676" height="902" />
+    </state>
+    <state x="660" y="368" key="Github.CreateGistDialog/0.0.1676.902@0.0.1676.902" timestamp="1604320304985" />
+    <state x="346" y="94" key="SettingsEditor" timestamp="1604320384476">
+      <screen x="0" y="0" width="1676" height="902" />
+    </state>
+    <state x="346" y="94" key="SettingsEditor/0.0.1676.902@0.0.1676.902" timestamp="1604320384476" />
+  </component>
+</project>
